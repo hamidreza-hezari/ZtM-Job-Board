@@ -1,0 +1,16 @@
+{
+  "name": "Hamidreza Hezari",
+  "img": "",
+  "email": "hmd.hezari@gmail.com",
+  "links": {
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/hamidreza-hezari",
+    "github": "https://github.com/hamidreza-hezari"
+  },
+  "jobTitle": "Software Engineer",
+  "location": {
+    "city": "Tehran",
+    "state": "Tehran",
+    "country": "Iran"
+  }
+}
